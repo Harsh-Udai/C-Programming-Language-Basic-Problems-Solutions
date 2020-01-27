@@ -13,4 +13,4 @@ int main(){
     printf("Hello World");
     return 0;
 }
-// Thank You By:- Harsh Udai.
+// Thank You By: Harsh Udai.

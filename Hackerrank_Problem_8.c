@@ -26,4 +26,4 @@ int main(){
     printf("%d",sum);
     return 0;
 }
-// Thank You By: Harsh Udai.
+// Thank You By:Harsh Udai.
